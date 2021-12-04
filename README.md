@@ -20,7 +20,7 @@
 
 <br />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=q6s&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=q6s&theme=buefy)
 
 [website]: https://m1ko.xyz
 [twitter]: https://twitter.com/MikoJPX
