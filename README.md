@@ -24,7 +24,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=q6s&theme=buefy)
 
-[![Discord](https://discord-prof.herokuapp.com/banner/305407367372341249.png)](https://discord.com/users/305407367372341249)
+[![Discord](https://discord-prof.herokuapp.com/banner/691583229395992597.png)](https://discord.com/users/691583229395992597)
 
 [website]: https://m1ko.xyz
 [twitter]: https://twitter.com/MikoJPX
