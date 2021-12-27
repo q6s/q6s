@@ -1,4 +1,4 @@
-### Hi there, I'm Omar - aka [Miko][website] 👋 
+### Hi there, I'm [Miko][website] 👋 
 
 [![Website](https://img.shields.io/website?label=m1ko.xyz&style=for-the-badge&url=https%3A%2F%2Fm1ko.xyz)](https://m1ko.xyz)
 
